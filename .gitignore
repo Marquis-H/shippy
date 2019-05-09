@@ -1,0 +1,6 @@
+.vscode/*
+consignment-cli/consignment-cli
+consignment-service/proto/consignment/consignment.pb.go
+consignment-service/consignment-service
+vessel-service/proto/vessel/vessel.pb.go
+vessel-service/vessel-service
